@@ -1,0 +1,26 @@
+Ok, very cool instructions (feel free to ask me for help, I'll add images later)
+1. Get the repository cloned on VS code
+To Do So:
+    -Download VS Code (search it up on google)
+    -Open a random file, and go to extensions on the bar on left
+    -Click on it and search up the github extensions
+    -Download it
+    -Go back to where your file is
+    -Click source control on the left
+    -Click clone repository
+    -Go back to the duck squad repository
+    -Click the green code button
+    -Click the copy button beside the link
+    -Go back to the clone repository button in VS Code and paste the link
+    -Put the Repository in a folder you will remember
+
+2. Create a Branch (or ask me to make one for you)
+To Do So:
+    Option 1: In GitHub
+    -Click 'main' underneath the pull request tab towards the upper left
+    -Type in your branch name
+    -Click on main again and tap on your new branch, make sure you are now in the branch
+    -Proceed to the access branch section
+    
+    Option 2: In VS code
+    -Go to your source control ()
