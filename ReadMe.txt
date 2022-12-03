@@ -35,7 +35,6 @@ I am here to say, don't be shy or afraid to be a public menace.
 quack.
 We can code this!!!
 (Algebra)
-<<<<<<< HEAD
 
 BTW START WITH LOOKING AT THE BRANCHINSTRUCTIONS FILE
 
