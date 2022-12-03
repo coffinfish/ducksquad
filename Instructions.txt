@@ -4,7 +4,7 @@ To Do So:
     -Download VS Code (search it up on google)
     -Open a random file, and go to extensions on the bar on left
     -Click on it and search up the github extensions
-    -Download it (unneccessary, but will make things easier)
+    -Download it (unnecessary, but will make things easier)
     -Go back to where your file is
     -Click source control on the left
     -Click clone repository
