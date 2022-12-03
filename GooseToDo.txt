@@ -1,1 +1,3 @@
-Test file to see if I can make a list of requirements of what to do in this branch.
+1. Create a very nice page/header
+2. Decide on sections for the cult site (algebra?, pantheon lore?)
+3. Figure out what else to do
